@@ -1,0 +1,39 @@
+*{  
+    width: 375PX;
+    height: 813px;
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+html{
+    font-size: 10px; /*unidades REM*/
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+:root {
+    /* Paleta de colores */
+ --azul: #345FB4;
+ --azul-pastel: #6789CA;
+ --negro: #313131;
+ --gris-oscuro: #777777;
+ --gris-claro: #A5A5A5;
+ --gradient-blue:linear-gradient(313.78deg, #2855AE -3.15%, #7292CF 100%);
+
+
+
+    /* Tamano de fuente */
+    --Titulos: 3.4rem;
+    --Correos:1.6rem;
+    --Texto-botones:1.8rem;
+    --size-h2: 2.6rem;
+    --size-h3: 1.8rem;
+    --size-parrafo: 1.4rem;
+}
+    
+    /*secciones*/
+.ingresar{
+    width: 375px;
+    height: 483px;
+}
+    
